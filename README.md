@@ -7,3 +7,5 @@ Static resource for nodeunify.com
 
     images:
 		For all the images to show
+    hhan:
+        HuiHan resources
