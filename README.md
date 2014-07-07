@@ -9,3 +9,5 @@ Static resource for nodeunify.com
 		For all the images to show
     hhan:
         HuiHan resources
+	hyper.js:
+		HyperCloud studio resources
